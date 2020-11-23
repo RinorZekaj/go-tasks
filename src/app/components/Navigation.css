@@ -1,0 +1,9 @@
+.nav-container {
+  display: flex;
+  justify-content: flex-start;
+  background-color: #efefef;
+}
+
+.logo-image {
+  width: 170px;
+}

@@ -1,0 +1,45 @@
+.task-list-container {
+  width: 33%;
+}
+
+.tasks-holder {
+}
+
+.task-link {
+  text-decoration: none;
+}
+
+.task-item {
+  color: white;
+  text-decoration: none;
+  border: 1px solid #efefef;
+  width: 90%;
+  margin-left: 5%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.G1 {
+  background-color: #dd3030;
+}
+
+.G2 {
+  background-color: #e27006;
+}
+
+.G3 {
+  background-color: #8fe42e;
+}
+
+.add-task-button {
+  width: 70%;
+  padding: 12px 0;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  border: 1px solid seagreen;
+  background-color: transparent;
+  color: seagreen;
+}
